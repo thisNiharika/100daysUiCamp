@@ -18,8 +18,7 @@ Each day presents a new task — from simple button hover effects to advanced la
   💾   Local progress tracking   – mark each challenge as done; your completion is saved automatically in your browser.
   🗓️   Day selector calendar   – jump directly to any day using a floating calendar menu.
   💡   Detailed prompts   – every day includes what to design, design goals, and creative constraints.
-  🖨️   Printable mode   – export your full progress to PDF with a single click.
-  🌈   Vivid UI & smooth animations   – built with pure HTML, CSS, and JavaScript — no frameworks.
+  🖨️   Printable mode   – export your full progress to PDF with a single click
   🔒   Offline ready   – works fully without an internet connection.
 
 ---
@@ -29,8 +28,6 @@ Each day presents a new task — from simple button hover effects to advanced la
     HTML5   — semantic structure for 100 interactive cards
     CSS3   — modern layout (Flexbox, Grid) + animations
     JavaScript (ES6)   — localStorage persistence & interactive logic
-   (Optional)    Intersection Observer API   for scroll animations
-   (Optional)    @media print   handling for perfect PDF export
 
 ---
 
@@ -60,33 +57,6 @@ or just drag it into Chrome / Edge / Firefox.
   Mark it as done ✅
   Repeat every day — 100 days of creativity!
 
----
-
-   🧩 Project Structure
-
-```
-100DaysUiCamp/
-│
-├── index.html            The main interactive workbook
-├── style.css             Core design and animations
-├── script.js             Logic for progress tracking & interactions
-├── assets/               Icons, backgrounds, gradients
-└── README.md             You’re reading it :)
-```
-
----
-
-   📘 Example Daily Prompt
-
-  Day 42 — Animated Gradient Button  
-
-> Design a call-to-action button with a looping gradient animation.
->
->   Use only CSS (no JS).
->   Include hover and focus states.
->   Keep accessibility intact (`aria-label`, keyboard focus).
-
----
 
    🏆 Goals
 
