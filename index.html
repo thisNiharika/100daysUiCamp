@@ -305,7 +305,18 @@
     .print-only {
       display: none
     }
-
+    @media (max-width: 600px) {
+      .header{
+        display: flex;
+        flex-direction: column;
+      }
+      h1{
+        font-size: 15px;
+      }
+      .progress-wrap{
+        width:65%;
+      }
+    }
     @media print {
 
       .fab-calendar,
