@@ -1,80 +1,61 @@
-DEMO: https://thisniharika.github.io/100daysUiCamp/
-  
-  🏕️ 100DaysUiCamp
+ 🚀 100 – NextGen UI Challenge  
+	100 Days to FrontEnd Glory
 
->   A 100-day hands-on journey to master modern UI design and CSS animations.  
-> Build, style, and animate beautiful components every day — and track your progress in an elegant, interactive interface.
+	An interactive, nologin progress tracker designed to help developers complete a 100day frontend challenge with style.
 
----
-
-   🌟 Overview
-
-  100DaysUiCamp   is a self-paced   UI design & CSS challenge   crafted for frontend developers who want to refine their visual and interaction design skills.
-Each day presents a new task — from simple button hover effects to advanced layout animations — all inside a single interactive HTML workbook that remembers your progress.
-
----
-
-   ✨ Features
-
-  🎯   100 curated daily challenges   – covering typography, layouts, gradients, loaders, forms, animations, and more.
-  💾   Local progress tracking   – mark each challenge as done; your completion is saved automatically in your browser.
-  🗓️   Day selector calendar   – jump directly to any day using a floating calendar menu.
-  💡   Detailed prompts   – every day includes what to design, design goals, and creative constraints.
-  🖨️   Printable mode   – export your full progress to PDF with a single click
-  🔒   Offline ready   – works fully without an internet connection.
-
----
-
-   🧠 Tech Stack
-
-    HTML5   — semantic structure for 100 interactive cards
-    CSS3   — modern layout (Flexbox, Grid) + animations
-    JavaScript (ES6)   — localStorage persistence & interactive logic
-
----
-
-   🚀 Getting Started
-
-    1️⃣ Clone the repo
-
-```bash
-git clone https://github.com/yourusername/100DaysUiCamp.git
-cd 100DaysUiCamp
-```
-
-    2️⃣ Open the app
-
-Simply open the `index.html` file in your browser — no server required.
-
-```bash
-open index.html
-```
-
-or just drag it into Chrome / Edge / Firefox.
-
-    3️⃣ Start your journey
-
-  Read the prompt for   Day 1  
-  Implement the design in your own sandbox or CodePen
-  Mark it as done ✅
-  Repeat every day — 100 days of creativity!
+	Built with a vivid gradient UI, smooth interactions, and smart progress tracking — this project focuses on clean UX, motivation, and daily consistency.
 
 
-   🏆 Goals
 
-By the end of the 100 days you’ll:
+ ✨ Features
 
-  Build a strong visual design foundation.
-  Master complex CSS transitions & transforms.
-  Create reusable, aesthetic UI components.
-  Understand how to structure scalable front-end layouts.
-  Have a full design portfolio built from scratch.
+	 🎨 Vivid Gradient UI
+	 📊 Live Progress Tracking (0–100%)
+	 📅 JumptoDay Navigation
+	 ✅ Mark Tasks as Completed
+	 🗂️ Weekwise Organization (Week 1 – Days 1–10, etc.)
+	 🖨️ Print / Save as PDF Option
+	 🔓 No Login Required (Clientside only)
 
----
 
-   💬 Contributing
 
-Want to add your own daily prompts or themes?
+ 🧠 How It Works
 
-1. Fork this repo
-2. Create a new branch:
+	 Each day contains a frontend challenge/task.
+	 Users can:
+	   Select any day using the bottom day selector.
+	   Mark a task as complete.
+	   See progress update automatically.
+	   Print or save progress as a PDF.
+	 All tracking is handled on the client side (local storage).
+
+
+
+
+ 🛠️ Tech Stack
+
+	 HTML5  
+	 CSS3 (Modern UI / Gradients)  
+	 JavaScript (Vanilla JS)  
+	 LocalStorage for progress persistence  
+
+
+
+ 🔗 Live Demo
+
+	👉 CodePen Collection:  
+	https://codepen.io/yourwork?item_type=COLLECTION  
+
+
+
+ 🏁 Getting Started
+
+	Follow these simple steps to run the project locally:
+
+	 1️⃣Clone the Repository
+
+	```bash
+	git clone https://github.com/thisNiharika/100daysUiCamp.git
+
+Free to use for learning and portfolio purposes.
+	Made with ❤️ for frontend growth.
